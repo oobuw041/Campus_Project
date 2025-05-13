@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import eventsData from "../events.json"; // Assuming events.json is in the src folder
 import EventCard from "../components/EventCard"; // Adjusted path
 
 function Home() {
@@ -9,10 +8,17 @@ function Home() {
   const [categories, setCategories] = useState([]);
 
   useEffect(() => {
+    fetch("/Campus_Project/events.json") // use the repo name as base
+      .then((res) => res.json())
+      .then((data) => setEvents(data))
+      .catch((err) => console.error("Failed to load events:", err));
+  }, []);
+
+  useEffect(() => {
     // Add a placeholder image URL if not present and extract categories
     const processedEvents = eventsData.map((event) => ({
       ...event,
-      image: event.image || `https://picsum.photos/seed/${event.id}/300/200`, 
+      image: event.image || `https://picsum.photos/seed/${event.id}/300/200`,
     }));
     setEvents(processedEvents);
 

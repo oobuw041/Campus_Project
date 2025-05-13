@@ -1,7 +1,4 @@
 import { Link } from "react-router-dom";
-import { useState } from "react";
-import events from "../events.json";
-import EventCard from "./EventCard";
 
 function NavBar() {
   return (
