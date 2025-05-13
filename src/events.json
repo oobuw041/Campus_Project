@@ -1,0 +1,186 @@
+
+  [
+    {
+      "id": 1,
+      "title": "Women in STEM Mixer",
+      "date": "2025-05-10",
+      "location": "STEM Complex, Room 103",
+      "category": "Career",
+      "description": "A networking event connecting students and professionals in STEM fields. Open to all students. Free snacks provided!",
+      "link": "https://uottawa.ca/womeninstem-mixer"
+    },
+    {
+      "id": 2,
+      "title": "Hack the Hill 2025",
+      "date": "2025-06-01",
+      "location": "SITE Building, Room A120",
+      "category": "Tech",
+      "description": "A 24-hour hackathon open to all skill levels. Prizes, mentorship, and late-night pizza!",
+      "link": "https://uottawa.ca/hackthehill"
+    },
+    {
+      "id": 3,
+      "title": "Cultural Night Gala",
+      "date": "2025-06-15",
+      "location": "UCU Agora",
+      "category": "Cultural",
+      "description": "An evening celebrating diverse cultures through music, dance, and food.",
+      "link": "https://uottawa.ca/cultural-night"
+    },
+    {
+      "id": 4,
+      "title": "Mental Health & Mindfulness Workshop",
+      "date": "2025-05-20",
+      "location": "FSS Lounge",
+      "category": "Health",
+      "description": "Interactive session on stress relief, mindfulness, and wellness techniques.",
+      "link": "https://uottawa.ca/mindfulness"
+    },
+    {
+      "id": 5,
+      "title": "Startup Pitch Competition",
+      "date": "2025-06-08",
+      "location": "STEM Auditorium",
+      "category": "Career",
+      "description": "Watch student entrepreneurs pitch their startups to a panel of judges and win seed funding.",
+      "link": "https://uottawa.ca/startup-pitch"
+    },
+    {
+      "id": 6,
+      "title": "Paint & Vibe",
+      "date": "2025-05-18",
+      "location": "UCU 205",
+      "category": "Arts",
+      "description": "Relaxing painting session with music and snacks. No experience needed!",
+      "link": "https://uottawa.ca/paint-vibe"
+    },
+    {
+      "id": 7,
+      "title": "Climate Action Panel",
+      "date": "2025-05-24",
+      "location": "FSS 4007",
+      "category": "Environmental",
+      "description": "Experts discuss climate policy, youth activism, and sustainability goals.",
+      "link": "https://uottawa.ca/climate-panel"
+    },
+    {
+      "id": 8,
+      "title": "Code & Coffee: Beginner Python",
+      "date": "2025-05-11",
+      "location": "Learning Crossroads, Room 102",
+      "category": "Tech",
+      "description": "A chill Python workshop for beginners. Bring your laptop, coffee’s on us!",
+      "link": "https://uottawa.ca/code-coffee-python"
+    },
+    {
+      "id": 9,
+      "title": "Summer Research Info Session",
+      "date": "2025-06-05",
+      "location": "STEM 202",
+      "category": "Academic",
+      "description": "Learn how to apply for research programs and find a faculty supervisor.",
+      "link": "https://uottawa.ca/research-session"
+    },
+    {
+      "id": 10,
+      "title": "Afrobeats Dance Workshop",
+      "date": "2025-06-12",
+      "location": "MNT Dance Studio",
+      "category": "Cultural",
+      "description": "Learn Afrobeats choreography in a high-energy beginner-friendly dance class!",
+      "link": "https://uottawa.ca/afrobeats-dance"
+    },
+    {
+      "id": 11,
+      "title": "Resume Roast & Pizza Night",
+      "date": "2025-05-21",
+      "location": "UCU 301",
+      "category": "Career",
+      "description": "Bring your resume for peer and mentor feedback... and free pizza.",
+      "link": "https://uottawa.ca/resume-roast"
+    },
+    {
+      "id": 12,
+      "title": "DIY Self-Care Night",
+      "date": "2025-06-10",
+      "location": "FSS Common Room",
+      "category": "Health",
+      "description": "Make face masks, decorate journals, and relax with friends.",
+      "link": "https://uottawa.ca/self-care-night"
+    },
+    {
+      "id": 13,
+      "title": "Latte Art Throwdown",
+      "date": "2025-06-20",
+      "location": "Café Nostalgica",
+      "category": "Social",
+      "description": "Compete or spectate in a latte art competition. Winner gets a gift card!",
+      "link": "https://uottawa.ca/latte-throwdown"
+    },
+    {
+      "id": 14,
+      "title": "Trivia Night: Pop Culture Edition",
+      "date": "2025-05-31",
+      "location": "UCU 107",
+      "category": "Social",
+      "description": "Join us for a fun night of trivia and prizes. Teams of 4 max.",
+      "link": "https://uottawa.ca/trivia-night"
+    },
+    {
+      "id": 15,
+      "title": "Black Student Association BBQ",
+      "date": "2025-05-25",
+      "location": "Tabaret Lawn",
+      "category": "Cultural",
+      "description": "Games, music, and grilled food — open to all students!",
+      "link": "https://uottawa.ca/bsa-bbq"
+    },
+    {
+      "id": 16,
+      "title": "Women in Tech Panel",
+      "date": "2025-06-14",
+      "location": "SITE C010",
+      "category": "Tech",
+      "description": "Hear from inspiring women in software, AI, and cybersecurity.",
+      "link": "https://uottawa.ca/women-in-tech"
+    },
+    {
+      "id": 17,
+      "title": "Sustainability DIYs",
+      "date": "2025-05-27",
+      "location": "STEM Makerspace",
+      "category": "Environmental",
+      "description": "Make your own beeswax wraps, upcycled decor, and more.",
+      "link": "https://uottawa.ca/sustainability-diys"
+    },
+    {
+      "id": 18,
+      "title": "LinkedIn Headshot Pop-Up",
+      "date": "2025-06-03",
+      "location": "UCU Lobby",
+      "category": "Career",
+      "description": "Get a free professional headshot — no appointment needed.",
+      "link": "https://uottawa.ca/linkedin-headshot"
+    },
+    {
+      "id": 19,
+      "title": "Board Game Café Night",
+      "date": "2025-06-09",
+      "location": "Games Café, Rideau Street",
+      "category": "Social",
+      "description": "Free entry for uOttawa students. First drink on us!",
+      "link": "https://uottawa.ca/game-night"
+    },
+    {
+      "id": 20,
+      "title": "Academic Writing Bootcamp",
+      "date": "2025-06-22",
+      "location": "Morisset Library, Room 204",
+      "category": "Academic",
+      "description": "Hands-on workshop to improve your writing and citation skills.",
+      "link": "https://uottawa.ca/writing-bootcamp"
+    }
+  ]
+  
+  
+  
